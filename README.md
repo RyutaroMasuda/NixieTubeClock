@@ -7,3 +7,5 @@
 [Githubの使い方初心者](https://www.kagoya.jp/howto/it-glossary/develop/howtousegithub/)　
 
 [Githubの過去バージョンの使い方](https://qiita.com/mako5656/items/594b30137e7415ac608c)
+
+[TerminalでのRenameの方法](http://adminweb.s25.xrea.com/command/file/index3.htmlf)
