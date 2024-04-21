@@ -11,3 +11,13 @@
 [TerminalでのRenameの方法](http://adminweb.s25.xrea.com/command/file/index3.htmlf)
 
 [リモートリポジトリをローカルにクローンする方法](https://docs.github.com/ja/repositories/creating-and-managing-repositories/cloning-a-repository)
+
+##日記的な
+
+###４月２１日
+
+デスクトップにgitを導入して、リモートリポジトリからローカルにクローンしようとしたんだけど、うまくいかなかった。このリポジトリはpublicだからhttpsのURLでもクローン出来るはずなんだけどできなかった。
+
+[リモートリポジトリをローカルにクローン出来なかった](https://qiita.com/fumikomatsu/items/3b539e79010a4808337c)
+
+を参照したら、httpsじゃなくてSSHでやったらいけた。なんでだろう。
