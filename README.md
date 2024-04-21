@@ -12,9 +12,9 @@
 
 [リモートリポジトリをローカルにクローンする方法](https://docs.github.com/ja/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-##日記的な
+## 日記的な
 
-###４月２１日
+### ４月２１日
 
 デスクトップにgitを導入して、リモートリポジトリからローカルにクローンしようとしたんだけど、うまくいかなかった。このリポジトリはpublicだからhttpsのURLでもクローン出来るはずなんだけどできなかった。
 
